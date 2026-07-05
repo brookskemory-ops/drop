@@ -15,6 +15,7 @@ shortlist of products worth testing. Built for someone starting from zero.
 | [`gym-brand-mens.md`](./gym-brand-mens.md) | **Men's performance basics** — tailored plan: oversized/pump-cover heroes, premium blanks, product roadmap |
 | [`sourcing-and-ai-design.md`](./sourcing-and-ai-design.md) | **Printers/blanks + AI design tools** — where to print (front & back) and how to make print-ready artwork |
 | [`design-prompts.md`](./design-prompts.md) | **AI design prompt pack** — paste-ready front & back prompts across 4 aesthetics |
+| [`brand-names.md`](./brand-names.md) | **Brand name ideas** — curated names by aesthetic + availability-check steps |
 
 ## The 60-second version
 
