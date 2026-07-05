@@ -16,6 +16,7 @@ shortlist of products worth testing. Built for someone starting from zero.
 | [`sourcing-and-ai-design.md`](./sourcing-and-ai-design.md) | **Printers/blanks + AI design tools** — where to print (front & back) and how to make print-ready artwork |
 | [`design-prompts.md`](./design-prompts.md) | **AI design prompt pack** — paste-ready front & back prompts across 4 aesthetics |
 | [`brand-names.md`](./brand-names.md) | **Brand name ideas** — curated names by aesthetic + availability-check steps |
+| [`brand-identity.md`](./brand-identity.md) | **STRYV identity** — locked name/colors, print-ready fixes, taglines, brand kit |
 
 ## The 60-second version
 
