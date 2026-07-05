@@ -19,6 +19,7 @@ shortlist of products worth testing. Built for someone starting from zero.
 | [`brand-identity.md`](./brand-identity.md) | **STRYV identity** — locked name/colors, print-ready fixes, taglines, brand kit |
 | [`finding-a-manufacturer.md`](./finding-a-manufacturer.md) | **Finding a manufacturer** — POD vs blanks vs custom cut-&-sew, costs, and how to vet for quality |
 | [`startup-budget.md`](./startup-budget.md) | **Startup budget** — what it costs to launch STRYV across three budget tiers |
+| [`launch-plan.md`](./launch-plan.md) | **Launch plan (Option A)** — go-live checklist + first 15 STRYV video ideas |
 
 ## The 60-second version
 
