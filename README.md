@@ -11,6 +11,7 @@ shortlist of products worth testing. Built for someone starting from zero.
 | [`product-shortlist.md`](./product-shortlist.md) | 8 vetted product ideas with margins, sourcing, and risk notes |
 | [`product-research.md`](./product-research.md) | How to find and validate your *own* winners (the durable skill) |
 | [`budget-and-tools.md`](./budget-and-tools.md) | Realistic startup costs and the tool stack |
+| [`gym-brand.md`](./gym-brand.md) | **Gym wear brand launch plan** — POD-validate then manufacture, fabric/fit specs, community marketing |
 
 ## The 60-second version
 
