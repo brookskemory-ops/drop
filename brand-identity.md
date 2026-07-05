@@ -10,6 +10,7 @@ print-ready assets. Name chosen: **STRYV** (from "strive").
 | Element | Decision |
 |---------|----------|
 | **Name** | STRYV |
+| **Domain** | **stryv.club** ✅ (confirmed available) — ties directly to "Athletic Club" |
 | **Sub-line** | STRYV ATHLETIC CLUB (community/gym-to-street positioning) |
 | **Aesthetic** | Bold typographic × minimalist (clean chest mark + bold statement back) |
 | **Colors** | Black + **red accent** (the "V"), on white/cream. Red is now the brand color. |
@@ -55,18 +56,27 @@ A name-based tagline ("Keep Stryving") reinforces the brand every time it's read
 - **Logo lock-ups:** (a) STRYV wordmark, (b) STRYV ATHLETIC CLUB stacked, (c) small icon/monogram
   (a standalone red "V" could become a neat pocket/label mark)
 
-## Verify availability before you print (STRYV)
+## Name / domain status (resolved)
 
-- [ ] `stryv.com` (or a clean variant) available / affordable
-- [ ] USPTO trademark search for "STRYV" **in apparel/class 25** — no conflicting mark
-- [ ] `@stryv` (or close) free on **Instagram** and **TikTok**
-- [ ] Shopify store URL available
+- **`stryv.com` / `stryv.co` are taken** by *Stryv* — a **Singapore grooming/beauty-tools**
+  retailer (hairdryers, shavers). Different industry + country → **low trademark conflict**
+  (apparel is Class 25, separate from personal-care electronics). We are **not** the bare `.com`.
+- **Chosen domain: `stryv.club`** ✅ (confirmed available) — bonus: it reinforces the
+  "STRYV ATHLETIC CLUB" identity. Register it before someone else does.
+
+**Still to verify (manual — do before printing):**
+- [ ] Register **stryv.club**
+- [ ] **USPTO** search "STRYV" in **apparel / Class 25** — confirm no conflicting apparel mark
+- [ ] Grab handles on **Instagram + TikTok** — try `@stryv`, else `@stryvclub` /
+      `@stryvathleticclub` / `@stryv.club`. Keep the handle consistent across both platforms.
+- [ ] Store URL (Shopify) or TikTok Shop name available
 
 ## Next steps
 
-1. Run the availability checks above.
-2. Fix the two print blockers (light versions + vectorize).
-3. Build the mockup on a **heavyweight blank** (Tapstitch/AS Colour) and **order a sample**.
+1. Register **stryv.club** + lock the social handles (above).
+2. Fix the two print blockers — light/reversed versions + vectorize (the `art/` pipeline handles
+   the reversed + transparent files; see [`production-steps.md`](./production-steps.md)).
+3. Set up **Apliiq** with a custom woven neck label on a heavyweight blank; **order a sample**.
 4. Wear-test the sample, then shoot content and launch Phase 1.
 
 ---
