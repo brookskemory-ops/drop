@@ -17,6 +17,7 @@ shortlist of products worth testing. Built for someone starting from zero.
 | [`design-prompts.md`](./design-prompts.md) | **AI design prompt pack** — paste-ready front & back prompts across 4 aesthetics |
 | [`brand-names.md`](./brand-names.md) | **Brand name ideas** — curated names by aesthetic + availability-check steps |
 | [`brand-identity.md`](./brand-identity.md) | **STRYV identity** — locked name/colors, print-ready fixes, taglines, brand kit |
+| [`finding-a-manufacturer.md`](./finding-a-manufacturer.md) | **Finding a manufacturer** — POD vs blanks vs custom cut-&-sew, costs, and how to vet for quality |
 
 ## The 60-second version
 
