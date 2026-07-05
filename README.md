@@ -15,6 +15,7 @@ shortlist of products worth testing. Built for someone starting from zero.
 | [`gym-brand-mens.md`](./gym-brand-mens.md) | **Men's performance basics** — tailored plan: oversized/pump-cover heroes, premium blanks, product roadmap |
 | [`sourcing-and-ai-design.md`](./sourcing-and-ai-design.md) | **Printers/blanks + AI design tools** — where to print (front & back) and how to make print-ready artwork |
 | [`design-prompts.md`](./design-prompts.md) | **AI design prompt pack** — paste-ready front & back prompts across 4 aesthetics |
+| [`design-prompts-dark.md`](./design-prompts-dark.md) | **Dark gothic prompt pack** (Darc-Sport-inspired) — 5 cinematic front & back concepts |
 | [`brand-names.md`](./brand-names.md) | **Brand name ideas** — curated names by aesthetic + availability-check steps |
 | [`brand-identity.md`](./brand-identity.md) | **STRYV identity** — locked name/colors, print-ready fixes, taglines, brand kit |
 | [`finding-a-manufacturer.md`](./finding-a-manufacturer.md) | **Finding a manufacturer** — POD vs blanks vs custom cut-&-sew, costs, and how to vet for quality |
