@@ -53,8 +53,11 @@ A name-based tagline ("Keep Stryving") reinforces the brand every time it's read
 - **Primary:** Black / off-white
 - **Accent:** the red (pick an exact hex, e.g. a punchy true red)
 - **Type:** one heavy condensed athletic sans for display (the wordmark), one clean sans for body
-- **Logo lock-ups:** (a) STRYV wordmark, (b) STRYV ATHLETIC CLUB stacked, (c) small icon/monogram
-  (a standalone red "V" could become a neat pocket/label mark)
+- **Primary logo mark:** Corinthian **helmet** (Achilles motif) — legible at small size for neck
+  label / chest / hangtag. See [`stryv-logo-and-hero.md`](./stryv-logo-and-hero.md).
+- **Story detail:** the **heel** + **blood-red accent always at the heel** (weakness → strength).
+- **Logo lock-ups:** (a) helmet mark, (b) helmet + STRYV blackletter wordmark, (c) STRYV ATHLETIC
+  CLUB badge/seal
 
 ## Name / domain status (resolved)
 
